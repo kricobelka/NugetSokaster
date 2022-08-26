@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hijik\\Visual Studio Community\\repos\\TMS\\Lesson14\\NugetSokaster\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {}
+    "C:\\Users\\hijik\\Downloads\\NugetSokaster-main\\NugetSokaster-main\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hijik\\Visual Studio Community\\repos\\TMS\\Lesson14\\NugetSokaster\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {
+    "C:\\Users\\hijik\\Downloads\\NugetSokaster-main\\NugetSokaster-main\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hijik\\Visual Studio Community\\repos\\TMS\\Lesson14\\NugetSokaster\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectUniqueName": "C:\\Users\\hijik\\Downloads\\NugetSokaster-main\\NugetSokaster-main\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
         "projectName": "ConsoleApp4",
-        "projectPath": "C:\\Users\\hijik\\Visual Studio Community\\repos\\TMS\\Lesson14\\NugetSokaster\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectPath": "C:\\Users\\hijik\\Downloads\\NugetSokaster-main\\NugetSokaster-main\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
         "packagesPath": "C:\\Users\\hijik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hijik\\Visual Studio Community\\repos\\TMS\\Lesson14\\NugetSokaster\\ConsoleApp4\\ConsoleApp4\\obj\\",
+        "outputPath": "C:\\Users\\hijik\\Downloads\\NugetSokaster-main\\NugetSokaster-main\\ConsoleApp4\\ConsoleApp4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
